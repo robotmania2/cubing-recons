@@ -1,0 +1,14 @@
+Time: 9.44
+
+Scramble: D' F2 L2 R2 D B2 U R2 B2 D' L2 B' F D' R' F R2 B2 L' U' L2 
+
+z2 // Inspection
+R' B2 U F' // FB
+M' U' M U' M U M' // DFDB
+R' U' R U' R' U R // Pair
+U2 F U R U' R' F' // EO
+U' R U' R' // LXS
+R' U2 R' D' R U2 R' D R2 // COLL
+M2 u' M' u2 M' u' M2 // PLL
+
+4.77 TPS
